@@ -8,6 +8,7 @@ body {
   border: 1.5px solid black;
   border-radius: 3px;
   background:  #1a0d00;
+  box-shadow: 5px 5px 10px #888888;
 }
 h3 {
   font-family: 'Marcellus SC', serif;
