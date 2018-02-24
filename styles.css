@@ -1,0 +1,49 @@
+body {
+  font-family: 'Lustria', serif;
+  padding: 10px;
+}
+.card {
+  width: 300px;
+  padding: 0px 12px 10px 12px;
+  border: 1.5px solid black;
+  border-radius: 3px;
+  background:  #1a0d00;
+}
+h3 {
+  font-family: 'Marcellus SC', serif;
+  color: white;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+}
+.img {
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+.fact {
+  font-size: 13px;
+  text-align: center;
+  font-style: italic;
+}
+.lst {
+  list-style-type: none;
+  padding: 3px 3px 3px 20px;
+}
+.pan {
+  font-weight: bold;
+  font-size: 12px;
+}
+li {
+  font-size: 12px;
+}
+.description {
+  padding: 0px 15px 0px 15px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background: #FBFBEF;
+}
+.info{
+  font-size: 12px;
+  text-align: justify;
+}
